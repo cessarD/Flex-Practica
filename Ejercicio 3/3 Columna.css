@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+html,body{
+	height: 100vh;
+}
+
+header,footer{
+	border: 1px solid black;
+	height: 100px;
+
+}
+.container{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	
+}
+#columna{
+	border: 1px solid black;
+	height: 450px;
+	flex: 1;
+	margin: 10px;
+	background-color: hotpink;
+}
+
+header,footer{
+	background-color: aqua;
+}
+

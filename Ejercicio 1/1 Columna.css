@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+html,body{
+	height: 100vh;
+}
+
+header,footer,div{
+	border: 1px solid black;
+	height: 100px;
+	width: 100%;
+	background-color: greenyellow
+	
+}
+.main{
+	height: 400px;
+	margin: 2.5px;
+	background-color: firebrick;
+}
